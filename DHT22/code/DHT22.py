@@ -1,3 +1,5 @@
+#by Suppachai
+#For Sensing temp with 2 DHT22 and plot live graph
 import serial
 import numpy
 import pickle
